@@ -1,0 +1,29 @@
+@import "tailwindcss";
+
+body {
+  font-family: "Inter", sans-serif;
+}
+html {
+  scroll-behavior: smooth;
+}
+
+@keyframes float {
+  0%,
+  100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-8px) scale(1.01);
+  }
+}
+
+.animate-float {
+  animation: float 6s ease-in-out infinite;
+}
+
+button:hover {
+  transform: scale(1.02);
+}
+button:active {
+  transform: scale(0.98);
+}
