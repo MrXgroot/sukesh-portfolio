@@ -3,7 +3,7 @@
 import Section from "../layout/Section";
 import { ArrowRight } from "lucide-react";
 import { useEffect, useState } from "react";
-import heroImage from "../../assets/hero2.png";
+import heroImage from "../../assets/projects/hero2.webp";
 const Hero = () => {
   const [show, setShow] = useState(false);
 
