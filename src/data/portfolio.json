@@ -1,0 +1,408 @@
+{
+  "site": {
+    "title": "Sukesh Acharya - Full Stack Developer",
+    "description": "Full-stack developer focused on real-time applications, systems programming, cinematic interfaces, and scalable web experiences.",
+    "url": "https://sukeshdev.online",
+    "language": "en",
+    "themeColor": "#07080d",
+    "keywords": [
+      "Full Stack Developer",
+      "React Developer",
+      "Node.js Developer",
+      "Creative Developer",
+      "Systems Programming"
+    ]
+  },
+
+  "navigation": [
+    { "label": "About", "href": "#about" },
+    { "label": "Skills", "href": "#skills" },
+    { "label": "Projects", "href": "#projects" },
+    { "label": "Experience", "href": "#experience" },
+    { "label": "Achievements", "href": "#achievements" },
+    { "label": "Contact", "href": "#contact" }
+  ],
+
+  "personal": {
+    "name": "Sukesh Acharya",
+    "initials": "SA",
+    "location": "Bangalore, Karnataka",
+    "timezone": "IST",
+    "avatar": "images/heroimage.webp",
+    "resumeUrl": "",
+    "email": "sukeshachar1489@gmail.com",
+    "phone": "+91-9113081194",
+    "availability": "Open to full-stack developer roles, internships, and product engineering opportunities."
+  },
+
+  "socials": [
+    {
+      "label": "GitHub",
+      "icon": "Github",
+      "href": "https://github.com/MrXgroot"
+    },
+    {
+      "label": "LinkedIn",
+      "icon": "Linkedin",
+      "href": "https://www.linkedin.com/in/sukesh-acharya-58b991322/"
+    },
+    {
+      "label": "Portfolio",
+      "icon": "Globe",
+      "href": "https://sukeshdev.online"
+    }
+  ],
+
+  "hero": {
+    "eyebrow": "Full-stack developer & systems builder",
+    "headline": "I build fast, interactive web experiences with real-time systems and intentional UI.",
+    "roles": [
+      "Full Stack Developer",
+      "React Developer",
+      "Creative Frontend Engineer",
+      "Systems Programming Enthusiast"
+    ],
+    "summary": "Focused on building scalable applications, real-time multiplayer systems, and polished user experiences using React, Node.js, TypeScript, and modern web technologies.",
+    "primaryCta": {
+      "label": "View projects",
+      "href": "#projects",
+      "icon": "ArrowDownRight"
+    },
+    "secondaryCta": {
+      "label": "Download resume",
+      "href": "",
+      "icon": "FileDown"
+    },
+    "metrics": [
+      {
+        "value": "4+",
+        "label": "major projects built"
+      },
+      {
+        "value": "3",
+        "label": "real-time systems"
+      },
+      {
+        "value": "1",
+        "label": "custom physics engine"
+      }
+    ],
+    "visual": {
+      "image": "./images/heroimage.webp",
+      "caption": "Currently exploring systems programming, physics simulations, and modern full-stack architecture."
+    }
+  },
+
+  "about": {
+    "eyebrow": "About",
+    "title": "A developer who enjoys solving difficult engineering problems with creativity and precision.",
+    "story": [
+      "I enjoy building applications that combine strong engineering with polished user experience. My interests range from full-stack development and real-time systems to low-level architecture and creative frontend interactions.",
+      "Over time I’ve worked on multiplayer applications, custom rendering systems, physics simulations, CLI tooling, and scalable social-media style platforms. I enjoy understanding how things work internally and building systems from scratch."
+    ],
+    "personality": [
+      {
+        "title": "Problem Solver",
+        "description": "Enjoys debugging complex systems and designing scalable solutions.",
+        "icon": "Puzzle"
+      },
+      {
+        "title": "Systems-minded",
+        "description": "Interested in architecture, performance optimization, and reusable engineering patterns.",
+        "icon": "Workflow"
+      },
+      {
+        "title": "Creative Builder",
+        "description": "Combines animation, UI polish, and engineering to create engaging experiences.",
+        "icon": "Sparkles"
+      }
+    ],
+    "facts": [
+      {
+        "label": "Based in",
+        "value": "Bangalore"
+      },
+      {
+        "label": "Working with",
+        "value": "React, Node.js, TypeScript, MongoDB"
+      },
+      {
+        "label": "Current focus",
+        "value": "Systems programming and scalable full-stack apps"
+      }
+    ]
+  },
+
+  "stats": [
+    {
+      "value": "100%",
+      "label": "self-driven projects"
+    },
+    {
+      "value": "4+",
+      "label": "production-ready applications"
+    },
+    {
+      "value": "Real-time",
+      "label": "multiplayer architecture"
+    },
+    {
+      "value": "Custom",
+      "label": "2D physics engine"
+    }
+  ],
+
+  "skills": {
+    "eyebrow": "Skills",
+    "title": "Technologies and systems I use to build modern applications.",
+    "categories": [
+      {
+        "name": "Frontend Development",
+        "description": "Interactive and performant frontend applications.",
+        "icon": "PanelsTopLeft",
+        "items": [
+          { "name": "React.js", "level": 90, "icon": "Atom" },
+          { "name": "TypeScript", "level": 82, "icon": "Braces" },
+          { "name": "TailwindCSS", "level": 88, "icon": "Layers3" },
+          { "name": "GSAP", "level": 80, "icon": "Sparkles" }
+        ]
+      },
+      {
+        "name": "Backend & Real-Time Systems",
+        "description": "APIs, multiplayer systems, sockets, and scalable backend architecture.",
+        "icon": "Server",
+        "items": [
+          { "name": "Node.js", "level": 88, "icon": "Server" },
+          { "name": "Express.js", "level": 85, "icon": "Route" },
+          { "name": "Socket.io", "level": 86, "icon": "Radio" },
+          { "name": "MongoDB", "level": 80, "icon": "Database" }
+        ]
+      },
+      {
+        "name": "Systems & Engineering",
+        "description": "Performance-focused programming and architecture exploration.",
+        "icon": "Cpu",
+        "items": [
+          { "name": "Physics Simulation", "level": 78, "icon": "Orbit" },
+          { "name": "CLI Tooling", "level": 82, "icon": "Terminal" },
+          { "name": "Web Workers", "level": 75, "icon": "Boxes" },
+          { "name": "Git & GitHub", "level": 88, "icon": "GitBranch" }
+        ]
+      }
+    ]
+  },
+
+  "techStack": [
+    "React.js",
+    "TypeScript",
+    "JavaScript",
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Socket.io",
+    "TailwindCSS",
+    "GSAP",
+    "Vite",
+    "HTML5 Canvas",
+    "WebRTC",
+    "Cloudinary",
+    "Git",
+    "Render",
+    "Vercel"
+  ],
+
+  "projects": {
+    "eyebrow": "Projects",
+    "title": "Projects focused on engineering depth, interactivity, and scalable architecture.",
+    "filters": ["All", "Full Stack", "Systems", "Real-Time", "Creative"],
+    "featuredId": "multiplayer-chess",
+    "items": [
+      {
+        "id": "multiplayer-chess",
+        "title": "Online Multiplayer Chess Game",
+        "category": "Real-Time",
+        "year": "2026",
+        "summary": "A real-time multiplayer chess platform with matchmaking and synchronized gameplay.",
+        "impact": "Implemented low-latency multiplayer architecture using WebSockets and Socket.io.",
+        "image": "images/chess-mania.webp",
+        "accent": "#FFD166",
+        "stack": ["React.js", "Socket.io", "Node.js", "Express.js"],
+        "links": [
+          {
+            "label": "GitHub",
+            "href": "https://github.com/MrXgroot/chess_frontend",
+            "icon": "Github"
+          }
+        ],
+        "highlights": [
+          "Live gameplay sync",
+          "Player matchmaking",
+          "Real-time architecture"
+        ]
+      },
+      {
+        "id": "paper-js",
+        "title": "paper-js Physics Engine",
+        "category": "Systems",
+        "year": "2026",
+        "summary": "A custom-built 2D physics engine created using TypeScript and HTML5 Canvas.",
+        "impact": "Explored ECS architecture, collision systems, rendering pipelines, and large-scale particle optimization.",
+        "image": "images/paperjs.webp",
+        "accent": "#8AB4FF",
+        "stack": ["TypeScript", "HTML5 Canvas", "Vite", "Web Workers"],
+        "links": [
+          {
+            "label": "GitHub",
+            "href": "https://github.com/MrXgroot/paper-js",
+            "icon": "Github"
+          }
+        ],
+        "highlights": [
+          "Custom ECS architecture",
+          "Particle simulation",
+          "Collision detection"
+        ]
+      },
+      {
+        "id": "campus-dairies",
+        "title": "Campus Dairies",
+        "category": "Full Stack",
+        "year": "2026",
+        "summary": "A social networking platform with media uploads, user interaction systems, and dynamic real-time experiences.",
+        "impact": "Built a scalable social-media style platform with optimized video delivery and modern UI interactions.",
+        "image": "images/campusdiary.webp",
+        "accent": "#8CF2C6",
+        "stack": ["React.js", "Node.js", "MongoDB", "Express.js", "Cloudinary"],
+        "links": [
+          {
+            "label": "GitHub",
+            "href": "https://github.com/MrXgroot/Campus-Dairies",
+            "icon": "Github"
+          }
+        ],
+        "highlights": [
+          "Media upload system",
+          "Dynamic user feeds",
+          "Real-time interactions"
+        ]
+      },
+      {
+        "id": "watchdog-cli",
+        "title": "WatchDog CLI",
+        "category": "Systems",
+        "year": "2026",
+        "summary": "A lightweight file watcher and process automation CLI inspired by Nodemon.",
+        "impact": "Improved developer workflow with scalable event-driven process monitoring.",
+        "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1400&auto=format&fit=crop",
+        "accent": "#FF7A6B",
+        "stack": ["Node.js", "TypeScript", "CLI", "NPM"],
+        "links": [
+          {
+            "label": "GitHub",
+            "href": "https://github.com/MrXgroot/watchman",
+            "icon": "Github"
+          }
+        ],
+        "highlights": [
+          "Automatic process restart",
+          "Custom watch filters",
+          "CLI tooling"
+        ]
+      }
+    ]
+  },
+
+  "experience": {
+    "eyebrow": "Journey",
+    "title": "Learning through self-driven engineering and practical product building.",
+    "items": [
+      {
+        "role": "Independent Full Stack Developer",
+        "company": "Self-driven Projects",
+        "type": "Personal Projects",
+        "location": "Bangalore",
+        "period": "2023 - Present",
+        "description": "Building full-stack applications, real-time systems, and experimental programming projects.",
+        "achievements": [
+          "Built a multiplayer chess platform using Socket.io.",
+          "Developed a custom 2D physics engine with ECS architecture.",
+          "Created scalable social-media style applications with media systems.",
+          "Explored CLI tooling and systems programming concepts."
+        ],
+        "stack": ["React.js", "Node.js", "MongoDB", "TypeScript"]
+      }
+    ]
+  },
+
+  "achievements": [
+    {
+      "title": "Qualified NET Examination",
+      "year": "2025",
+      "description": "Achieved PhD eligibility through the NET examination.",
+      "icon": "Award"
+    },
+    {
+      "title": "Cleared TCS NQT Prime",
+      "year": "2025",
+      "description": "Successfully cleared the TCS National Qualifier Test Prime assessment.",
+      "icon": "BadgeCheck"
+    },
+    {
+      "title": "MMA Discipline & Training",
+      "year": "Ongoing",
+      "description": "Developed discipline, resilience, and consistency through MMA practice.",
+      "icon": "Dumbbell"
+    }
+  ],
+
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Let’s build something meaningful and technically ambitious.",
+    "description": "Open to internships, full-stack developer opportunities, and collaborative engineering projects.",
+    "email": "sukeshachar1489@gmail.com",
+    "formEndpoint": "mailto:sukeshachar1489@gmail.com",
+    "fields": [
+      {
+        "name": "name",
+        "label": "Name",
+        "type": "text",
+        "placeholder": "Your name"
+      },
+      {
+        "name": "email",
+        "label": "Email",
+        "type": "email",
+        "placeholder": "you@company.com"
+      },
+      {
+        "name": "message",
+        "label": "Message",
+        "type": "textarea",
+        "placeholder": "Tell me about your project"
+      }
+    ],
+    "quickLinks": [
+      {
+        "label": "Email me",
+        "href": "mailto:sukeshachar1489@gmail.com",
+        "icon": "Mail"
+      },
+      {
+        "label": "GitHub",
+        "href": "https://github.com/MrXgroot",
+        "icon": "Github"
+      },
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/in/sukesh-acharya-58b991322/",
+        "icon": "Linkedin"
+      }
+    ]
+  },
+
+  "footer": {
+    "signature": "Designed and engineered by Sukesh Acharya.",
+    "copyright": "Built with curiosity, systems thinking, and creativity.",
+    "backToTopLabel": "Back to top"
+  }
+}
