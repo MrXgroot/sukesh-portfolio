@@ -215,7 +215,7 @@
     "eyebrow": "Projects",
     "title": "Projects focused on engineering depth, interactivity, and scalable architecture.",
     "filters": ["All", "Full Stack", "Systems", "Real-Time", "Creative"],
-    "featuredId": "multiplayer-chess",
+    "featuredId": "campus-dairies",
     "items": [
       {
         "id": "multiplayer-chess",
@@ -228,6 +228,11 @@
         "accent": "#FFD166",
         "stack": ["React.js", "Socket.io", "Node.js", "Express.js"],
         "links": [
+          {
+            "label": "Live Demo",
+            "href": "https://chess-mania-mrxgroot.vercel.app/",
+            "icon": "Globe"
+          },
           {
             "label": "GitHub",
             "href": "https://github.com/MrXgroot/chess_frontend",
@@ -252,6 +257,11 @@
         "stack": ["TypeScript", "HTML5 Canvas", "Vite", "Web Workers"],
         "links": [
           {
+            "label": "Live Demo",
+            "href": "https://paper-js-henna.vercel.app/",
+            "icon": "Globe"
+          },
+          {
             "label": "GitHub",
             "href": "https://github.com/MrXgroot/paper-js",
             "icon": "Github"
@@ -275,6 +285,11 @@
         "stack": ["React.js", "Node.js", "MongoDB", "Express.js", "Cloudinary"],
         "links": [
           {
+            "label": "Live Demo",
+            "href": "https://campus-dairies.vercel.app/login",
+            "icon": "Globe"
+          },
+          {
             "label": "GitHub",
             "href": "https://github.com/MrXgroot/Campus-Dairies",
             "icon": "Github"
@@ -285,33 +300,9 @@
           "Dynamic user feeds",
           "Real-time interactions"
         ]
-      },
-      {
-        "id": "watchdog-cli",
-        "title": "WatchDog CLI",
-        "category": "Systems",
-        "year": "2026",
-        "summary": "A lightweight file watcher and process automation CLI inspired by Nodemon.",
-        "impact": "Improved developer workflow with scalable event-driven process monitoring.",
-        "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?q=80&w=1400&auto=format&fit=crop",
-        "accent": "#FF7A6B",
-        "stack": ["Node.js", "TypeScript", "CLI", "NPM"],
-        "links": [
-          {
-            "label": "GitHub",
-            "href": "https://github.com/MrXgroot/watchman",
-            "icon": "Github"
-          }
-        ],
-        "highlights": [
-          "Automatic process restart",
-          "Custom watch filters",
-          "CLI tooling"
-        ]
       }
     ]
   },
-
   "experience": {
     "eyebrow": "Journey",
     "title": "Learning through self-driven engineering and practical product building.",
